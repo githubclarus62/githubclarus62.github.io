@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+.jumbotron h1 span {
+  color: coral;
+}
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+#about h2 span,
+#projects h2 span,
+#contact h2 span {
+  color: coral;
+}
